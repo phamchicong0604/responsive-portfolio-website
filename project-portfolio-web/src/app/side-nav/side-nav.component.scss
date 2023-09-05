@@ -1,0 +1,11 @@
+.side_nav {
+  width: calc(100vw - 60rem);
+  li {
+    padding: 5px;
+  }
+  li:hover {
+    border-radius: 9999px;
+
+    background: rgb(115 172 107);
+  }
+}
